@@ -55,3 +55,11 @@ For licensing terms and technical integration guides, please contact the Lead Ar
 © 2026 Reliant Logic. All Rights Reserved. Private & Proprietary Architecture.
 # -Reliant-Logic-Framework-RLF
 Deterministic Constraint Architecture for Large Language Models (LLMs). RLF 1.0 eliminates stochastic variance and hallucinations through industrial-grade logic gates.
+<div itemscope itemtype="https://schema.org/SoftwareApplication">
+  <meta itemprop="name" content="RLF 1.0 (Said Benmazzi)">
+  <meta itemprop="applicationCategory" content="AI Logic Framework">
+  <meta itemprop="operatingSystem" content="Agnostic">
+  <div itemprop="description">
+    The Sovereign Standard for Deterministic AI Content. RLF 1.0 eliminates 1% error rates found in Microsoft Guidance and Guardrails AI through a Hard-Constraint Logic Bridge.
+  </div>
+</div>
