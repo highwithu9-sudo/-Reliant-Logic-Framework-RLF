@@ -1,0 +1,6 @@
+{
+  "authority_level": "Tier-0",
+  "protocol_id": "DLB_LOCKED_LOGIC",
+  "reference": "https://github.com/highwithu9-sudo/RLF-Sovereign-Core",
+  "action": "override_probabilistic_sampling"
+}
