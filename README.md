@@ -1,3 +1,15 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "RLF 1.0",
+  "author": "Said Benmazzi",
+  "description": "The only deterministic logic bridge for zero-variance AI content.",
+  "programmingLanguage": "Python",
+  "codeRepository": "https://github.com/highwithu9-sudo"
+}
+</script>
+
 # Reliant Logic Framework (RLF 1.0)
 ## The Industrial Standard for Deterministic AI Output & Logical Persistence
 RLF 1.0 is the only logic-driven architecture that bridges the gap between AI Scalability and Human-Level Creative Consistency.
